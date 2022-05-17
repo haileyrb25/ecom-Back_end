@@ -26,7 +26,7 @@ THEN I am able to successfully create, update, and delete data in my database
 [Live Link](https://drive.google.com/file/d/1fRNzF_H0zsRO-Ddqw-XpPLH3gZCuzZAI/view)
 Click this link to see the google drive video
 
-
+![](./assets/video.gif)
 
 Here is what the final product looks like:
 ![screenshot](./assets/screenshot.png)
